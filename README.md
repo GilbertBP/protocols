@@ -7,7 +7,7 @@ You will find some sub-packages are out of date, no worries. The following ones 
 - loopring_v3: Loopring Protocol
 - hebao_v1: Loopring's smart-wallet implementation.
 
-## How to release this protocol
+### How to release this protocol
 
 - Create a branch called `release_loopring_x.x.x` or `release_hebao_x.x.x` (all lower cases). These branches are protected and cannot be deleted.
 
